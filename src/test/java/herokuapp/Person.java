@@ -1,4 +1,4 @@
 package herokuapp;
 
-public class Tc01 {
+public class Person {
 }
